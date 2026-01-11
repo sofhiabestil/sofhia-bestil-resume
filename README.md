@@ -2,6 +2,8 @@
 
 🎯 **Software QA Tester | Data Migration | ETL | Computer Science Graduate**
 
+Computer Science graduate with a strong interest in Software Quality Assurance. Currently working as a Cashier, where I developed discipline, attention to detail, and process accuracy. Trained in manual and automated testing, defect reporting, and Agile methodologies, and now pursuing an entry-level Software QA Tester opportunity.
+
 Welcome! This repository contains my most up-to-date resume.
 
 ## 📄 Resume
